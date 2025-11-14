@@ -1,0 +1,7 @@
+{
+  "template": "nextjs",
+  "container": {
+    "node": "22"
+  },
+  "infiniteLoopProtection": true
+}
